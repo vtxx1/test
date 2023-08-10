@@ -1,0 +1,26 @@
+{
+  "name": "brazil-rates",
+  "version": "1.0.0",
+  "description": "atualizador automatico de banner baseado em taxas",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudanoj/brazil-rates.git"
+  },
+  "author": "sudano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudanoj/brazil-rates/issues"
+  },
+  "homepage": "https://github.com/sudanoj/brazil-rates#readme",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "cron": "^2.4.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.12",
+    "twitter-api-v2": "^1.15.1"
+  }
+}
